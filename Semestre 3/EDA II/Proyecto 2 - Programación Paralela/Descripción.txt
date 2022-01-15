@@ -1,0 +1,12 @@
+Conjunto de Mandelbrot  - Paralelismo | EDA II | Equipo: 11
+- Díaz Hernández Marcos Bryan
+- Lara Aguilar Christian Abraham
+
+Link Drive: 
+
+Links de interés:
+
+- Autor de Factral:      https://www.ted.com/talks/benoit_mandelbrot_fractals_and_the_art_of_roughness/transcript?language=es
+
+-  Eye of the Universe:
+https://www.youtube.com/watch?v=pCpLWbHVNhk&ab_channel=MathsTown
