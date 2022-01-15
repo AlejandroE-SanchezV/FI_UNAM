@@ -1,0 +1,22 @@
+Polifase
+Para la ejecucion del algoritmo de polifase es necesario:
+1. Que el usuario cree una carpeta en su escritorio con el nombre de "Prueba", sin las comillas, donde colocara el archivo .txt
+de donde se obtendran los datos a ordenar
+2. El nombre del archivo donde tiene la lista de alumnos debera ser "Prueba",sin las comillas.
+3. Después para el algoritmo tendra que  seleccionar si va a ordenar nombres o apellidos, cualquiera que sea su eleccion se generaran
+cuatro arhivos donde se podran ver las iteraciones, F0, F1, F2, F3, del algoritmo.
+4. El programa le indicara el archivo donde tendra la version ordenada, pero como recordatorio los datos ordenados estaran en el mismo
+archivo prueba, solo añadiran debajo de los datos que se tenían que ordenar.
+5. En caso de que quiera llevar a cabo una segunda implementacion es necesario que elimine los archivos que se generan en la primera,
+de no eliminarse el programa fallara, y tambien dentro del archivo se tendran que eliminar los elementos ordenados en la primera imple
+mentacion, de tal forma que el arhivo "Prueba", debera quedar como se creo desde un principio.
+
+Dentro de la ejecución:
+1. Debera de indicar el criterio que se utiliza para ordenar, el nombre o apellido, despues se le pedira que ingrese el nombre de
+usuario de su cuenta, ejemplo: Diego, Jona, etc., debera introducir el nombre cuando se le pide. 2. 
+2. Despues tendra que ingresar el nombre del archivo, y posteriormente se le pedira que ingrese el ultimo arhivo donde se escribio,
+no se preocupe, el programa le dira, cual fue este.
+3. Finalmente tendra que escribir de nuevo su usuario.
+
+Notas:
+En caso de que se tengan dos alumnos con nombres exactamente iguales, el algoritmo puede fallar, por una implementación interna.
