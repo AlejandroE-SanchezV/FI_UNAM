@@ -1,0 +1,16 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Objetivo}{2}{section.1}%
+\contentsline {section}{\numberline {2}Introducción}{2}{section.2}%
+\contentsline {section}{\numberline {3}Marco Teórico}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Árbol Binario}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Heap}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Árbol de expresión}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Árbol binario de búsqueda equilibrado - AVL}{5}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Análisis de las implementaciones}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Heap}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Árbol de Expresión}{7}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Conversión}{8}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Árbol de Expresión}{8}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Solución}{9}{subsubsection.4.2.3}%
+\contentsline {section}{\numberline {5}Conclusiones}{10}{section.5}%
+\contentsline {section}{\numberline {6}Referencias Bibliográficas}{10}{section.6}%
